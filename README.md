@@ -1,2 +1,2 @@
-# tarzan-robo-edge-ai
-AI + Robotics project by Team Sparks (Robo Edge)
+# tarzan-robo-edge
+Robotics project by Team Sparks (Robo Edge)
